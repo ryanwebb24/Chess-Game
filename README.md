@@ -36,7 +36,7 @@ The Chess project has the following dependencies:
 
 ## Contributing
 
-If you are interested in contributing to the Chess project, please review the [contributing guidelines](CONTRIBUTING.md) before submitting a pull request.
+If you are interested in contributing to the Chess project, please submmit a pull request and send me an email letting me know.
 
 ## Contact
 
