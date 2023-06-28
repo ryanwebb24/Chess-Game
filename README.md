@@ -16,7 +16,7 @@ To install the Chess project, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/ryanwebb24/chess-game.git`
 2. Navigate to the project directory: `cd chess-game`
-3. Install the dependencies: `pip install -r requirements.txt`
+3. Install the dependencies: `pip install -r ./Chess-Game/requirements.txt`
 
 ## Usage
 
