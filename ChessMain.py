@@ -11,7 +11,8 @@ PIECES = ['bp', 'br', 'bn', 'bb', 'bq', 'bk', 'wp', 'wr', 'wn', 'wb', 'wq', 'wk'
 
 def load_images():
     for piece in PIECES:
-        IMAGES[piece] = pg.transform.scale(pg.image.load('/home/ryan/Desktop/Code/chess-game/images/' + piece + '.png'), (SQ_SIZE, SQ_SIZE))
+        IMAGES[piece] = pg.transform.scale(pg.image.load('./Chess-Game/images/' + piece + '.png'), (SQ_SIZE, SQ_SIZE))
+        
 
 def main():
     pg.init()
